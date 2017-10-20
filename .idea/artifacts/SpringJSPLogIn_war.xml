@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringJSPLogIn:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="WebServerWar.war">
+      <element id="artifact" artifact-name="SpringJSPLogIn:war exploded" />
+    </root>
+  </artifact>
+</component>
